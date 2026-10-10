@@ -6,7 +6,7 @@ Welcome! This repository contains my top quantitative research, data analysis, a
 
 ## Featured Projects
 
-### 1. [SQL Housing Market Analysis](./Adaptive-Controllers/)
+### 1. [SQL Housing Market Analysis](./Final%20IQP%20Paper%20-%20Adaptive%20Controllers%20(1).pdf/)
 * **Tools:** Microsoft Excel
 * **Key Findings:** Design and evaluation of two adaptive controllers intended to foster low-barrier musical fulfillment and personal autonomy for individuals with limited mobility. 
 
