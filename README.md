@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Welcome! This repository contains my top quantitative research, data analysis, and economic modeling projects from the last year.
+Welcome! This repository contains some of my quantitative research and economic modeling projects from the last year.
 
 ---
 
