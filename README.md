@@ -10,6 +10,6 @@ Welcome! This repository contains my top quantitative research, data analysis, a
 * **Tools:** Microsoft Excel
 * **Key Findings:** Design and evaluation of two adaptive controllers intended to foster low-barrier musical fulfillment and personal autonomy for individuals with limited mobility. 
 
-### 2. [Economic Research & Policy Paper](./Econometrics%Research%Paper%(6).pdf/)
+### 2. [Economic Research & Policy Paper](./Econometrics%20Research%20Paper%20(6).pdf/)
 * **Tools:** Econometrics, Stata
 * **Key Findings:** Quantitative analysis on the determinants of success in Major League Baseball. 
